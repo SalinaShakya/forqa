@@ -1,0 +1,18 @@
+{
+    "contact":{
+        "firstName": "John ",
+        "lastName":"Doe",
+        "dateOfBirth":"1993-132-02",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "address": "Nayabazar",
+        "city":"Kathmandu",
+        "state":"Bagmati",
+        "postal":"12345",
+        "country":"Nepal"
+
+    },
+    "contactEdit":{
+        "firstName":"Salina"
+    }
+}
