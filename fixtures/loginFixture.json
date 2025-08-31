@@ -4,7 +4,7 @@
         "password":"salina123"
     },
     "invalidUser":{
-        "username":"test@test.com",
+        "username":"test@.com",
         "password":"testpassword"
     }
 }
