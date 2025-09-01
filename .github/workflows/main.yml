@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    -cron_ '30 1 * * 1-5' #30 minutes , 1 hr(UTC time){+ 8 hrs}, * every year, every month , 1-5 (weekend)
+    - cron_ '30 1 * * 1-5' #30 minutes , 1 hr(UTC time){+ 8 hrs}, * every year, every month , 1-5 (weekend)
   workflow_dispatch: #manually trigger grna lai help grxa
 
 jobs:
